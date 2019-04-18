@@ -1,0 +1,136 @@
+/**
+.root {
+	-fx-spacing:30;
+	-fx-background: black;
+	-fx-border-style: solid;
+	-fx-border-color: rgb(256, 256, 256);
+	-fx-border-width: 5px 5px 5px 5px;
+}
+
+.text {
+	-fx-text-decoration: line-through;
+}
+
+.pane {
+	-fx-background: black;
+	-fx-border-style: solid;
+	-fx-border-color: rgb(5, 150, 256);
+	-fx-border-width: 5px 5px 5px 5px;
+}
+.button {
+    -fx-font-family: "Arial";
+    -fx-font-size: 15px;
+    
+    /* -fx-opacity: 0.4;*/
+    /* -fx-background-color: black; */
+
+**/
+
+
+.button {
+}
+
+.button:hover {
+}
+
+#btn-fight {
+  -fx-graphic: "test/fight.png";
+  -fx-background-color: transparent;
+}
+
+#btn-fight:hover {
+ -fx-graphic: "test/fighthighlight.png";
+   -fx-background-color: transparent;
+}
+
+#btn-act {
+  -fx-graphic: "test/act.png";
+  -fx-background-color: transparent;
+}
+
+#btn-act:hover {
+ -fx-graphic: "test/acthighlight.png";
+   -fx-background-color: transparent;
+}
+
+#btn-item {
+  -fx-graphic: "test/item.png";
+  -fx-background-color: transparent;
+}
+
+#btn-item:hover {
+ -fx-graphic: "test/itemhighlight.png";
+   -fx-background-color: transparent;
+}
+
+#btn-mercy {
+  -fx-graphic: "test/mercy.png";
+  -fx-background-color: transparent;
+}
+
+#btn-mercy:hover {
+ -fx-graphic: "test/mercyhighlight.png";
+   -fx-background-color: transparent;
+}
+
+#battle1 {
+  -fx-graphic: "test/mercy.png";
+  -fx-background-color: transparent;
+}
+
+#battle1:hover {
+ 	-fx-fill: grey;
+}
+
+#check1 {
+  -fx-graphic: "test/mercy.png";
+  -fx-background-color: transparent;
+}
+
+#check1:hover {
+ 	-fx-fill: grey;
+}
+
+#act1 {
+  -fx-graphic: "test/mercy.png";
+  -fx-background-color: transparent;
+}
+
+#act1:hover {
+ 	-fx-fill: grey;
+}
+
+#item1 {
+  -fx-graphic: "test/mercy.png";
+  -fx-background-color: transparent;
+}
+
+#item1:hover {
+ 	-fx-fill: grey;
+}
+
+
+#mercy1 {
+  -fx-graphic: "test/mercy.png";
+  -fx-background-color: transparent;
+}
+
+#mercy1:hover {
+ 	-fx-fill: grey;
+}
+
+
+@font-face
+{
+    font-family: Press-Start-2P;
+    src: url("PressStart2P.ttf");
+}
+
+@font-face {
+    font-family: '8bitoperator-jve';
+    src: url('test/8bitoperator_jve.ttf');
+}
+
+.text {
+    -fx-font-family: "8bitoperator-jve";
+}
