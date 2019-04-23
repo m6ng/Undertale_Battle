@@ -3,4 +3,4 @@ This is a game made with Java that attempts to replicate the battle scene of a p
 
 We used the Eclipse IDE to write and run the Java code. Note there are way better ways to program/create the game, but at the time, the two of us only knew our limited knowledge of Java, Eclipse, and Java GUIs to make our idea into reality.
 
-The file "Fight.java" should be used to run the game.
+Note: To run the game, be sure to run the file "Fight.java".
