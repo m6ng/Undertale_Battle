@@ -6,6 +6,7 @@ This was a final class project of CSE 8B at UC San Diego, concocted by two stude
 ## Game
 This is a game made with Java that attempts to replicate a battle scene of a popular video game called "Undertale". We used the Eclipse IDE to write and run the Java code. Note that this is basically spaghetti code from two beginners. There are way better ways to program/create the game, but at the time, the two of us only knew our limited knowledge of Java, Eclipse, and Java GUIs to make our idea into reality. Note that due to a shortage of time, we were only able to create scenes in which you are trying to avoid being damaged. There is no way to win the battle in the java application. There is a small chance you may encounter a Game Over screen that refers to the teacher assistant who helped us out while we were doing this assignment. We have no intention to come back to this ever again.
 
+Click on the image to redirect you to a short youtube video of it working.
 [![Video Link to Project Demo](https://img.youtube.com/vi/wzKYIb-_QJc/0.jpg)](https://youtu.be/wzKYIb-_QJc)
 
 ## How to play
