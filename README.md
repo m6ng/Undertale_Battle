@@ -11,9 +11,11 @@ Click on the image to redirect you to a short youtube video of it working.
 [![Video Link to Project Demo](https://img.youtube.com/vi/wzKYIb-_QJc/0.jpg)](https://youtu.be/wzKYIb-_QJc)
 
 ## How to play
-To run the game, go to an IDE that supports running Java, and run the file "Fight.java". This should open up a window that is initially black screen. Clicking will proceed the game.
+- To run the game, go to an IDE that supports running Java, and run the file "Fight.java". This should open up a window that is initially black screen. Clicking will proceed the game.
+- Once at the battle scene, select any of the 4 options to try stuff.
+- At the bullet-hell scene with the heart, use arrow keys (up, down, left, right) to dodge the obstacles.
+- Running out of health will result in game over.
 
 ## Important Game Notes
-
 - There is **NO WAY TO WIN THE GAME**. All the choices will not do anything and you will be stuck dodging obstacles for the whole time.
 - To restart the game, you would have to close the window and run the Java file again. You cannot do anything once you reach the Game Over screen.
